@@ -1,21 +1,22 @@
 {
-  "name": "stt-pz-1",
+  "name": "stt-pz-2",
   "version": "1.0.0",
   "description": "In this lesson we should introduction to auto testing in javascript. What Behavior Test Development (TDD) is, the three categories of tests involved, what Unit Tests are, and how to build and run them.",
   "main": "lib.js",
   "scripts": {
-    "test": "jest --watchAll"
+    "test": "jest",
+    "test:watch": "jest --watchAll"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/STT-VITI-22/stt-pz-1.git"
+    "url": "git+https://github.com/STT-VITI-22/stt-pz-2.git"
   },
   "author": "Andrii Zadvornyi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/STT-VITI-22/stt-pz-1/issues"
+    "url": "https://github.com/STT-VITI-22/stt-pz-2/issues"
   },
-  "homepage": "https://github.com/STT-VITI-22/stt-pz-1#readme",
+  "homepage": "https://github.com/STT-VITI-22/stt-pz-2#readme",
   "devDependencies": {
     "jest": "^29.0.3"
   }
